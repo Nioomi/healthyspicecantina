@@ -1,0 +1,108 @@
+
+body {
+font-family: 'DM Serif Display', serif;
+margin: 0;
+background-image: radial-gradient(gold, #BEFEF9);
+font-weight: 300;
+}
+
+
+
+
+
+header {
+background-image: linear-gradient( #BEFEF9);
+image-float: center;
+}
+
+
+
+
+ul {
+list-style: none;
+}
+
+
+nav ul {
+list-style: none;
+}
+
+nav li {
+font-family: 
+
+}
+
+nav a { 
+color: #444;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 30px;
+}
+
+
+}
+
+
+
+nav a::before {
+content: '';
+display: block;
+height: 5px;
+background-color: #444
+
+position: absolute;
+top: 0;
+width: 0;
+}
+
+
+
+h1 {
+font-family: 'Satisfy', cursive;
+font-size: 4em;
+text-align: center;
+
+}
+
+h2 {
+font-family: 'Satisfy', cursive;
+font-size: 3em;
+text-align: center;
+}
+
+h3 {
+font-family: 'Fascinate', cursive;
+font-size: 2em;
+text-align: center;
+}
+
+
+dd {
+font-size: 15px;
+margin-left: 50px;
+padding: 3px;
+}
+
+.price {
+  font-style: italic;
+color: #E8806C;
+}
+
+strong {
+  font-style: italic;;
+}
+
+section {
+font-family: 'DM Serif Display', serif;
+font-size: 1.8em;
+}
+
+
+
+p {
+text-align: center;
+}
+
+footer {
+Text-align: center;
+}
