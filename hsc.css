@@ -34,9 +34,9 @@ font-family:
 
 nav a { 
 color: #444;
-text-decoration: none;
 text-transform: uppercase;
-font-size: 30px;
+font-size: 35px;
+letter-spacing: 15px;
 }
 
 
